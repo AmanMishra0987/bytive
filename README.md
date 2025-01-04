@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-# Task Management App
+# todo App
 
 A simple Task Management application built with React, Redux, and Tailwind CSS. This app allows users to manage tasks, including adding, editing, and updating their statuses. It also implements pagination to display tasks in chunks of 10 per page.
 
