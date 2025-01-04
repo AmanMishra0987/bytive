@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 # todo App
 
-A simple Task Management application built with React, Redux, and Tailwind CSS. This app allows users to manage tasks, including adding, editing, and updating their statuses. It also implements pagination to display tasks in chunks of 10 per page.
+A simple Task Todo application built with React, Redux, and Tailwind CSS. This app allows users to manage tasks, including adding, editing, and updating their statuses. It also implements pagination to display tasks in chunks of 10 per page.
 
 ## Features
 
